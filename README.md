@@ -29,7 +29,7 @@ class CustomFlask(Flask):
 app = CustomFlask(__name__)
 ```
 
-and ADD in main function
+and insert the code below into ```
 
 ```python
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
