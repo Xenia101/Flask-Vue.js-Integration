@@ -10,7 +10,7 @@ python Flask + Vue.js Intergration
 
 ## Issue
 
-When Flask + Vue intergration, confrict a Jinja2 delimiter and Vue.js delimiter
+When Flask + Vue intergration, confrict a **Jinja2** delimiter and **Vue.js** delimiter
 
 Add python code at app.py
 
