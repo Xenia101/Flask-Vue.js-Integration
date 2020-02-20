@@ -1,6 +1,6 @@
 # Flask Vue.js Integration
 
-python Flask + Vue.js Intergration
+python **Flask** + **Vue.js** simple Intergration
 
 ## Execution / Test Environment
 
