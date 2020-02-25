@@ -16,8 +16,23 @@
       <footer class="blockquote-footer">Integration</footer>
     </blockquote>
 
-    <div id="app" class="text-center">{{ message }}</div>
+    <div class="text-center">
+      <small class="text-muted">1. Example app-1</small>
+      <div id="app">{{ message }}</div></br>
 
+      <small class="text-muted">2. Example app-5</small>
+      <div id="app-5">
+        <p>{{ message }}</p>
+        <button v-on:click="reverseMessage">메시지 뒤집기</button>
+      </div></br>
+
+      <small class="text-muted">3. Example app-6</small>
+      <div id="app-6">
+        <p>{{ message }}</p>
+        <input v-model="message">
+      </div>
+    </div>
+  
     <!-- Optional JavaScript -->
     <!-- Vue.js -->
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
