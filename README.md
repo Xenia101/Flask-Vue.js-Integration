@@ -41,7 +41,7 @@ Examples in [Vue.js KOR](https://kr.vuejs.org/v2/guide/index.html)
 
 - example app1, app6, app7
 
-<p>
+<p align=center>
     <img src="https://github.com/Xenia101/Flask-Vue.js-Integration/blob/master/img/image.PNG?raw=true">
 </p>
 
