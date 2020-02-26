@@ -35,7 +35,9 @@ and insert the code below into ```main```
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 ```
 
-## Example
+## Example 
+
+[Vue.js KOR](https://kr.vuejs.org/v2/guide/index.html)
 
 ## References 
 
