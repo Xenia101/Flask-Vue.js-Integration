@@ -37,7 +37,9 @@ app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 
 ## Example 
 
-[Vue.js KOR](https://kr.vuejs.org/v2/guide/index.html)
+Examples in [Vue.js KOR](https://kr.vuejs.org/v2/guide/index.html) 
+
+- Example app1, app6, app7
 
 ## References 
 
